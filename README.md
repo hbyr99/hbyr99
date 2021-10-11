@@ -1,5 +1,9 @@
 <h2> Print("Hello, I'm Henry!")</h2>
 
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+  ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+
 <h3>   &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -10,17 +14,23 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
+  ![Clojure](https://img.shields.io/badge/Clojure-333333?style=flat&logo=Clojure&logoColor=Clojure)
+  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
+  ![R](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/Ruby-333333?style=flat&logo=ruby&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-333333?style=flat&logo=rust&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-333333?style=flat&logo=mariadb&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -32,8 +42,8 @@
 <br/>
 
 <a href="https://github.com/hbyr99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbyr99&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbyr99&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbyr99&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbyr99&theme=dark&layout=compact" />
 </a>
 
 <br/>
