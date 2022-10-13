@@ -43,7 +43,7 @@
 
 <a href="https://github.com/hbyr99">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbyr99&theme=dark&show_icons=true" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbyr99&theme=dark&layout=compact&hide=jupyter%20notebook,html" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbyr99&theme=dark&layout=compact&hide=jupyter%20notebook,html" /> -->
 </a>
 
 <br/>
