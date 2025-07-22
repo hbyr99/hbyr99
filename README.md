@@ -1,27 +1,16 @@
 <h2> Print("Hello, I'm Henry!")</h2>
 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-  ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
-
 <h3>   &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Calvin University.
-- 🌱 &nbsp; Learning more about Full Stack Development, Cyber Security and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Game Design and Electrical Engineering as hobbies.
+- 🎓 &nbsp; Graduated with a Bachelor in Computer Science, Minor in Mathematics from Calvin University.
+- 🌱 &nbsp; Knowledgeable software engineer with proven flexibility and adaptability in a team environment.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
-  ![Clojure](https://img.shields.io/badge/Clojure-333333?style=flat&logo=Clojure&logoColor=Clojure)
-  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
-  ![R](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-333333?style=flat&logo=ruby&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-333333?style=flat&logo=rust&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
